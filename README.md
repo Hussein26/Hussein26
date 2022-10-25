@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey! 👋
+I'm Hussein, Flutter Developer.
 
-<!--
-**Hussein26/Hussein26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧭 freelance mobile developer flutter 
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+-	👨‍💻 dart, kotlin 
+-	⚙ MVC, MVP,  MVVM 
+-	👨‍💻 bloc and provider as state management 
+-	⚙ Git, GitFlow, CI/CD
+-	👨‍💻 Firebase
+-	💽 Software Engineering concepts, Data Structures and Algorithms
+
+
+
+## Contact
+- [hussein667.tarek@gmail.com](mailto:link)
+- [Hussein Tarek]([link](https://www.linkedin.com/in/hussein-tarek-a3064320a/)) on LinkedIn
+
+
+
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hussein26m&show_icons=true&theme=radical" alt="Hussein Tarek" />
+</h1>
